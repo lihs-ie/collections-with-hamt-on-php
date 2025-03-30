@@ -1,2 +1,2 @@
 # collections-with-hamt-on-php
-Hash Array Mapped TrieをしようしたHash Map, Hash Setをphp, laravelで作成する
+Hash Array Mapped Trieを使用したHash Map, Hash Setをphp, laravelで作成する
